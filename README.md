@@ -8,7 +8,7 @@ Para el desarrollo de la aplicación se utilizo.
 
 - Lenguaje de desarrollo: JAVA Versión 1.8
 - Motor de Base de datos: MYSQL
-- Contrucción del API: SpringBoot
+- Construcción del API: SpringBoot
 - Publicación de API: Google App Engine
 
 
